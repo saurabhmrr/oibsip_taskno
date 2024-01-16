@@ -99,9 +99,75 @@ html,body{
     height: 10vh;
     width: 100vw;
     background-color:rgb(220, 47, 2);
+    padding: 50px;
+    color: #fff;
 }
-#h2 {
+#skills, #projects {
+    margin-top: 30px;
+}
+
+#skills h3, #projects h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#skills ul, #projects {
+    list-style: none;
+    padding: 0;
+}
+
+#skills li, #projects .project {
+    margin-bottom: 10px;
+}
+
+#projects .project img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+#skills, #projects {
+    border-top: 1px solid #fff;
+    padding-top: 20px;
+}
+
+#h2 h2 {
+    font-size: 36px;
+}
+
+#scene3 {
     position: relative;
-    top: 30%;
-    text-align: center;
+    height: auto;
+    width: 100vw;
+    background-color: #fff;
+    padding: 50px;
+    color: #333;
+    background-color: burlywood;
+}
+
+#social-media {
+    margin-bottom: 30px;
+}
+
+#social-media h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#social-media ul {
+    list-style: none;
+    padding: 0;
+}
+
+#social-media li {
+    margin-bottom: 10px;
+}
+
+#social-media a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+#social-media {
+    border-top: 1px solid #333;
+    padding-top: 20px;
 }
