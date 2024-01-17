@@ -146,3 +146,8 @@ footer {
     text-align: center;
     margin-top: 40px;
 }
+
+footer>p {
+    text-align: center;
+    font-size:12px ;
+}
