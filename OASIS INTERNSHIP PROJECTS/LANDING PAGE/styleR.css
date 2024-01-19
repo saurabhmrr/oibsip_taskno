@@ -156,3 +156,6 @@ footer>p {
     margin: 10px;
         text-align: center;
 }
+#icon>a :hover{
+    color: #8f5757;
+}
