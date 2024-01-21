@@ -73,6 +73,9 @@ main div {
     position: relative;
     top: 8rem;
 }
+#info>h1{
+    color: #e0e5d7;   
+}
 #details {
     display: flex;
     padding: 8%;
